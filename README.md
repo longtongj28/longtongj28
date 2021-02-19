@@ -10,4 +10,4 @@ Some goals that I have for this year are: <br/>
 - Becoming a more efficient web programmer :shit:
 - Building a mobile app :iphone: 
 - learning about data science/AI :chart_with_upwards_trend:
-- get good grades on my Assembly class :anguished:
+- get good grades in my Assembly class :anguished:
